@@ -1,4 +1,4 @@
-![coverage](.github/badge/jacoco.svg)
+![coverage](.github/badges/jacoco.svg)
 
 A minimal Dropwizard getting started project using Gradle. Use [shadowJar plugin](https://github.com/johnrengelman/shadow) to create fat jars.
 

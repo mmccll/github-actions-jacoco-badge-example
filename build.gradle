@@ -42,7 +42,6 @@ shadowJar {
 // TODO Specify Jacoco version
 jacoco{
     toolVersion = "0.8.8"
-    reportsDirectory = layout.buildDirectory.dir('MyReports')
 }
 // TODO Configure Jacoco
 jacocoTestReport{
